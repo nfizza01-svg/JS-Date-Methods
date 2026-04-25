@@ -34,3 +34,5 @@
 ## Tech Used
 - JavaScript (Vanilla)
 - HTML
+## Live Preview
+https://nfizza01-svg.github.io/JS-Date-Methods/
